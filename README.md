@@ -1,2 +1,2 @@
 # notes
-[文章地址](https://jiongjarjar.github.io/notes/?_blank)
+[文章地址](https://jiongjarjar.github.io/notes/)
